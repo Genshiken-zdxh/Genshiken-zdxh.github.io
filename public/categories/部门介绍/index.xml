@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+<<<<<<< HEAD
+    <title>部门介绍 on 广州新华现代视觉文化研究社</title>
+    <link>http://localhost:1313/categories/%E9%83%A8%E9%97%A8%E4%BB%8B%E7%BB%8D/</link>
+    <description>Recent content from 广州新华现代视觉文化研究社</description>
+=======
+    <title>部门介绍 on </title>
+    <link>http://localhost:1313/categories/%E9%83%A8%E9%97%A8%E4%BB%8B%E7%BB%8D/</link>
+    <description>Recent content from </description>
+>>>>>>> 60b6375 (Publish: 增加万事屋部门介绍)
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    
+    <managingEditor>xxx@example.com (现代视觉文化研究社)</managingEditor>
+    <webMaster>xxx@example.com (现代视觉文化研究社)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Wed, 15 Oct 2025 03:00:00 +0800</lastBuildDate>
+    
+    
+    <atom:link href="http://localhost:1313/categories/%E9%83%A8%E9%97%A8%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>【部门介绍】万事屋</title>
+      <link>http://localhost:1313/post/department-introduction/yorozuya_index/</link>
+      <pubDate>Wed, 15 Oct 2025 03:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (现代视觉文化研究社)</author>
+      <guid>http://localhost:1313/post/department-introduction/yorozuya_index/</guid>
+      <description>
+        <![CDATA[<h1>【部门介绍】万事屋</h1><p>作者：现代视觉文化研究社（xxx@example.com）</p>
+        
+          <p>看到我们部门名称的小伙伴可能会觉得很眼熟，这不是《银魂》里那个啥也不干的委托所吗？</p>
+<figure><img src="/images/yorozuya.jpg" width="400">
+</figure>
+
+<p>虽然名字相同，但我们可是万事都干的万事屋，作为独立于创作与行政板块直属于社长团的部门，想必要加入这个部门一定要具有独门绝招，斗技和耐性技惊四座。<del>秘密武器更是给人额外惊喜吧</del></p>
+        
+<<<<<<< HEAD
+        <hr><p>本文2025-10-15首发于<a href='http://localhost:1313/'>广州新华现代视觉文化研究社</a>，最后修改于2025-10-15</p>]]>
+=======
+        <hr><p>本文2025-10-15首发于<a href='http://localhost:1313/'></a>，最后修改于2025-10-15</p>]]>
+>>>>>>> 60b6375 (Publish: 增加万事屋部门介绍)
+      </description>
+      
+        <category>部门介绍</category>
+      
+    </item>
+    
+  </channel>
+</rss>
