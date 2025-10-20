@@ -1,11 +1,7 @@
 ---
 title: '【部门介绍】万事屋'
 description: 部门简介
-banner: "/images/yorozuya.webp"
-keywords:
- - 部门介绍
- - 万事屋
-
+author: 现视研
 categories:
  - 部门介绍
 tags:

@@ -26,10 +26,10 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
+author: 现代视觉文化研究社
 email: xxx@example.com
-description: "少女祈祷中..."
-subtitle: "少女祈祷中..."
+description: "大新华的唯一动漫社团，这里是ACGN爱好者的聚集地！"
+subtitle: "欢迎来到中大新华现视研！"
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -46,7 +46,7 @@ banner_srcset:
     - src: "images/banner.webp"
       media: "(min-width: 800px)"
 
-avatar: "avatar.webp"
+avatar: "Genshiken-zdxh.webp"
 
 # Control the display of the post cover
 # If not set, the banner image will be displayed by default
@@ -120,7 +120,7 @@ social:
   # flickr: https://www.flickr.com/photos/yourname
   # dribbble: https://dribbble.com/yourname
   # behance: https://www.behance.net/yourname
-  # bilibili: https://space.bilibili.com/yourname
+  bilibili: https://space.bilibili.com/4559265
   # weibo: https://weibo.com/yourname
   # zhihu: https://www.zhihu.com/people/yourname
   # reddit: https://www.reddit.com/user/yourname
@@ -154,6 +154,11 @@ show_update_time: false # If you want to show the update time, please set this t
 summary:
   enable: false
   style: 'subtitle' # 'subtitle' or 'blockquote'
+
+triangle_badge:
+  enable: false
+  icon: github # same as the icon in the social config
+  link: https://github.com/D-Sketon/hugo-theme-reimu
 
 # RSS output
 rss:
@@ -461,7 +466,7 @@ firework:
 
 # show the copyright below each article
 article_copyright:
-  enable: false
+  enable: true
   content:
     author: true
     link: true
