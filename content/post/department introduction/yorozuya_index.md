@@ -1,7 +1,7 @@
 ---
 title: '【部门介绍】万事屋'
 description: 部门简介
-author: 现视研
+author: 现视研@广州新华现代视觉文化研究社
 categories:
  - 部门介绍
 tags:

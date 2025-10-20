@@ -1,7 +1,7 @@
 ---
 title: '超时空甩尾 Redline'
 description: 手绘时代最后的光芒：关于赛车的浪漫故事
-author: 腐化
+author: 腐化@广州新华现代视觉文化研究社
 cover: /images/redline.jpg
 
 categories:
