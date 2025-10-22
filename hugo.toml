@@ -1,6 +1,6 @@
 baseURL = 'https://Genshiken-zdxh.github.io/'
 theme = ["github.com/D-Sketon/hugo-theme-reimu"]
-title = "广州新华现代视觉文化研究社"
+title = "广州现代视觉文化研究社"
 
 languageCode = 'zh-CN'
 defaultContentLanguage = 'zh-CN'
