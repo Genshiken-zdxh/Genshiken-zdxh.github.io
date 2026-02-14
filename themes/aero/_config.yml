@@ -1,0 +1,28 @@
+menu:
+  about: /about
+favicon:
+  enable: true
+  icon: /image/icon/vista_messenger.jpg
+profile:
+  enable: true
+  author: '广州现视研'
+  avatar: 'https://avatars.githubusercontent.com/u/237448312?s=400&u=1f2e53774686afafa5f69a80eb83bfadcd4a41ea&v=4'  # Your avatar image, for example, https://avatars.githubusercontent.com/username
+  avatar_link: '' # The link you click on the avatar and jump to, for example, https://github.com/username
+  social: # you can customize which and how many social links to show
+    # - name: Github
+    #  link: '' # https://github.com/username
+    #  icon: /image/icon/github.png
+    - name: Bilibili
+      link: 'https://space.bilibili.com/4559265'
+      icon: /image/icon/icon_news_heart.png
+music:
+  enable: true
+  autoplay: false
+  songs: 
+    - title: 'Funny Bunny'
+      artist: 'the pillows'
+      cover: '/image/Funny Bunny.jpg'
+      url: /music/the pillows - Funny Bunny.mp3
+math:
+  enable: true
+  engine: mathjax
